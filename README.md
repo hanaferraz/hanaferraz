@@ -14,7 +14,7 @@
   <img align = "center" alt = "hana-Flutter" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
   <img align = "center" alt = "hana-C" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg ">
   <img align = "center" alt = "hana-Csharp" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg ">
-  <img align = "right" alt ="hana-icon" src="https://discord.com/channels/985563671881195550/985563672925585540/1171539705112838184/star wars.jpg">
+  <img align = "right" alt ="hana-icon" src="https://discord.com/channels/985563671881195550/985563672925585540/1171539705112838184">
 </div> 
 
   ##
