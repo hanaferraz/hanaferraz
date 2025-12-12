@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Hanã Ferraz 👋
 
 - 🔭 Bacharelado em Ciências da Computação
-- 🌱 Aprendendo novas linguagens como C,C#,Js entre outras....
+- 🌱 Conhecimento em linguagens como C,C#,Js entre outras....
 
 <div align= "centro" >
   <a href = " https://github.com/hanaferraz">
