@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Hanã Ferraz 👋
 
-- 🔭 Atualmente estou estudando Ciências da Computação ...
+- 🔭 Bacharelado em Ciências da Computação
 - 🌱 Aprendendo novas linguagens como C,C#,Js entre outras....
 
 <div align= "centro" >
