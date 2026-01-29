@@ -3,19 +3,15 @@
 - 🔭 Bacharelado em Ciências da Computação
 - 🌱 Conhecimento em linguagens como C,C#,Js entre outras....
 
-<div align= "centro" >
-  <a href = " https://github.com/hanaferraz">
-  <img heigth = "180em" src= "https://github-readme-stats.vercel.app/api?username=hanaferraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/_>
-  <img heigth = "180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=hanaferraz&layout=compact&langs_count=7&theme=dracula"/_>
-  </div>
-  
-<div style = "display: inline_block">
-  <img align = "center" alt = "hana-Js" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
-  <img align = "center" alt = "hana-Flutter" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
-  <img align = "center" alt = "hana-react" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-plain.svg ">
-  <img align = "center" alt = "hana-Csharp" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg ">
-  <img align = "right" alt ="hana-icon" height = "110" widht = "60" src="https://lh3.googleusercontent.com/a/ACg8ocL5S4en2E8cvG6AXDQp25tQFGEZTPxZmcK8Qo2Yazisg48=s288-c-no">
-</div> 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
 
   ##
   
