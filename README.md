@@ -12,7 +12,7 @@
 <div style = "display: inline_block">
   <img align = "center" alt = "hana-Js" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
   <img align = "center" alt = "hana-Flutter" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
-  <img align = "center" alt = "hana-C" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg ">
+  <img align = "center" alt = "hana-react" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-plain.svg ">
   <img align = "center" alt = "hana-Csharp" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg ">
   <img align = "right" alt ="hana-icon" height = "110" widht = "60" src="https://lh3.googleusercontent.com/a/ACg8ocL5S4en2E8cvG6AXDQp25tQFGEZTPxZmcK8Qo2Yazisg48=s288-c-no">
 </div> 
